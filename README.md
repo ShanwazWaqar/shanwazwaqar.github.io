@@ -10,7 +10,7 @@
   <a href="https://app.netlify.com/sites/shanwazportfolio/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/abf59f82-3251-4040-b24c-949b86691642/deploy-status?style=flat-square" /></a>
   <a href="https://github.com/ShanwazKotekanti/ShanwazKotekanti.github.io/commits/main"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
 </p>
-<p align="center">Explore my work at <a href="https://ShanwazKotekanti.github.io" target="_blank">https://ShanwazKotekanti.github.io</a></p>
+<p align="center">Explore my work at <a href="https://shanwazwaqar.github.io" target="_blank">https://shanwazwaqar.github.io</a></p>
 
 ---
 
