@@ -27,7 +27,7 @@ const greeting = {
   resumeLink:
     "https://drive.google.com/file/d/1GqQJRfDLt0jjM950OyypgQH5EFfuN1MZ/view?usp=drive_link",
   portfolio_repository:
-    "https://github.com/ShanwazWaqar/ShanwazKotekanti.github.io",
+    "https://github.com/ShanwazWaqar/shanwazwaqar.github.io",
   githubProfile: "https://github.com/ShanwazWaqar",
 };
 

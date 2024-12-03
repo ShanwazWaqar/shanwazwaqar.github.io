@@ -39,10 +39,13 @@
 ## Clone and Run Locally 📋
 
 ### Prerequisites
+
 - Install **Node.js** (v20.11.1 or later)
 - Install **npm** (v10.2.4 or later)
 
 ### Clone the Repository
+
 ```bash
 git clone https://github.com/ShanwazKotekanti/ShanwazKotekanti.github.io.git
 cd ShanwazKotekanti.github.io
+```
