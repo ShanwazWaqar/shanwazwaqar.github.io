@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.27d467e6.chunk.css",
-    "main.js": "/static/js/main.97fd2119.chunk.js",
-    "main.js.map": "/static/js/main.97fd2119.chunk.js.map",
+    "main.css": "/static/css/main.6e492f0a.chunk.css",
+    "main.js": "/static/js/main.bbaddb1a.chunk.js",
+    "main.js.map": "/static/js/main.bbaddb1a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2781e2dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.2781e2dc.js.map",
-    "static/js/2.e70e9933.chunk.js": "/static/js/2.e70e9933.chunk.js",
-    "static/js/2.e70e9933.chunk.js.map": "/static/js/2.e70e9933.chunk.js.map",
+    "static/js/2.c3f47afc.chunk.js": "/static/js/2.c3f47afc.chunk.js",
+    "static/js/2.c3f47afc.chunk.js.map": "/static/js/2.c3f47afc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.726997ff0d7afdbf30f6ba52cc4fdb86.js": "/precache-manifest.726997ff0d7afdbf30f6ba52cc4fdb86.js",
+    "precache-manifest.db377c113fb203cf019b7520060f7b46.js": "/precache-manifest.db377c113fb203cf019b7520060f7b46.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.27d467e6.chunk.css.map": "/static/css/main.27d467e6.chunk.css.map",
+    "static/css/main.6e492f0a.chunk.css.map": "/static/css/main.6e492f0a.chunk.css.map",
     "static/media/Accenture-logo.png": "/static/media/Accenture-logo.78476a11.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Broadcom-logo.png": "/static/media/Broadcom-logo.3f1be66d.png",
@@ -64,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2781e2dc.js",
-    "static/js/2.e70e9933.chunk.js",
-    "static/css/main.27d467e6.chunk.css",
-    "static/js/main.97fd2119.chunk.js"
+    "static/js/2.c3f47afc.chunk.js",
+    "static/css/main.6e492f0a.chunk.css",
+    "static/js/main.bbaddb1a.chunk.js"
   ]
 }
