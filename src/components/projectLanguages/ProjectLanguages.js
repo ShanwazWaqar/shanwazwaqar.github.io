@@ -22,7 +22,7 @@ class ProjectLanguages extends Component {
                   <li
                     className="software-skill-inline-languages"
                     name={logo.skillName}
-                  >
+                  > 
                     <span
                       className="iconify"
                       data-icon={logo.iconifyClass}

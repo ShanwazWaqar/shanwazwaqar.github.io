@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Shanwaz Kotekanti Portfolio",
     type: "website",
-    url: "http://ShanwazKotekanti.com/",
+    url: "https://shanwazwaqar.github.io/",
   },
 };
 
@@ -138,7 +138,7 @@ const skills = {
     },
     {
       title: "Tools and Technologies",
-      fileName: "ToolsImg",
+      fileName: "DataScienceImg",
       skills: [
         "⚡ Proficient in version control systems like Git and Bitbucket.",
         "⚡ Using JIRA for Agile project management and sprint planning.",
@@ -385,9 +385,7 @@ const experience = {
           duration: "Aug 2022 - Present",
           location: "Athens, GA, USA",
           description:
-            "As a Graduate Research Assistant at the University of Georgia, I conducted advanced research on IoT and Machine Learning applications for poultry health analysis, focusing on creating dynamic solutions for real-world challenges. " +
-            "I developed keypoint detection models for broiler analysis, enabling precise identification of anatomical features and enhancing accuracy in data collection processes. " +
-            "I implemented dynamic control systems for optimizing environmental conditions in poultry coops, ensuring improved animal welfare and operational efficiency. " +
+            "As a Graduate Research Assistant at the University of Georgia," +
             "Additionally, as a Teaching Assistant for the Cell Biology Lab, I delivered engaging lab instructions and mini-lectures to simplify complex biological concepts. " +
             "I collaborated with faculty and co-TAs to refine lab modules, introduced data management tools like Google Sheets for streamlined administrative processes, and mentored new TAs to improve lab operations. " +
             "My role also emphasized maintaining lab safety protocols, ensuring compliance with ethical and hazard-free practices.",

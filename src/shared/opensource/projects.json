@@ -1,31 +1,44 @@
 {
   "data": [
     {
-      "id": "cinema-e-booking-system",
-      "name": "Cinema E-Booking System",
-      "createdAt": "2021-12-01",
-      "url": "https://github.com/ShanwazWaqarK9/CinemaEBookingSystem",
-      "description": "A cinema ticket booking platform using Angular, Spring Boot, and MySQL.",
+      "id": "Dynamic UI Development for Accenture Internal Tools",
+      "name": "Dynamic UI Development for Accenture Internal Tools",
+      "createdAt": "2022-05-15",
+      "url": "https://innovation360.accenture.com/home",
+      "description": "Contributed to the frontend development of an internal operations platform at Accenture, focusing on creating dynamic, user-friendly interfaces using Angular. My key responsibilities included implementing dynamic forms, a feature I solely developed as part of a significant user story, enabling seamless customization for varied user inputs. Ensured robust functionality and performance through rigorous testing frameworks like Jasmine and KarmaJS. Collaborated with the team using Bitbucket for version control and peer reviews. This project highlights my expertise in building scalable, test-driven, and interactive frontend applications for enterprise environments.",
       "languages": [
         {
           "name": "Angular",
           "iconifyClass": "logos-angular"
         },
         {
-          "name": "Spring Boot",
-          "iconifyClass": "logos-spring"
+          "name": "KarmaJS",
+          "iconifyClass": "logos-karma"
         },
         {
-          "name": "MySQL",
-          "iconifyClass": "logos-mysql"
+          "name": "Jasmine",
+          "iconifyClass": "logos-jasmine"
+        },
+        {
+          "name": "Bit Bucket",
+          "iconifyClass": "logos-bitbucket"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
+        
       ]
     },
     {
       "id": "ecommerce-website",
       "name": "E-Commerce Website",
       "createdAt": "2022-05-15",
-      "url": "https://github.com/ShanwazWaqarK9/Ecommerce",
+      "url": "https://github.com/ShanwazWaqar/E-Commerce-Angular",
       "description": "An e-commerce app with Angular, Spring Boot, and secure JWT authentication.",
       "languages": [
         {
@@ -39,6 +52,27 @@
         {
           "name": "JWT",
           "iconifyClass": "logos-jwt"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    },
+    {
+      "id": "cinema-e-booking-system",
+      "name": "Cinema E-Booking System",
+      "createdAt": "2021-12-01",
+      "url": "https://github.com/ShanwazWaqarK9/CinemaEBookingSystem",
+      "description": "A cinema ticket booking platform using Angular, Spring Boot, and MySQL.",
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "Spring Boot",
+          "iconifyClass": "logos-spring"
         },
         {
           "name": "MySQL",
