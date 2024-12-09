@@ -222,19 +222,6 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Karunya Institute of Technology and Sciences",
-      subtitle: "B.Tech. in Computer Science",
-      logo_path: "Karunya.jpeg", // Replace with the correct logo path
-      alt_name: "Karunya Institute",
-      duration: "2016 - 2020",
-      descriptions: [
-        "⚡ Achieved 3rd rank in the entire Computer Science Department out of a batch of over 300 students.",
-        "⚡ Studied core subjects such as Data Structures, Algorithms, Operating Systems, Databases, Web Development.",
-        "⚡ Worked on impactful projects focusing on dynamic web applications, scalable systems, and database optimization.",
-      ],
-      website_link: "https://www.karunya.edu/",
-    },
-    {
       title: "University of Georgia",
       subtitle: "M.S. in Computer Science",
       logo_path: "UGA_logo.png", // Replace with the correct logo path
@@ -246,6 +233,19 @@ const degrees = {
         "⚡ Gained hands-on experience through advanced coursework in Algorithms, Data Structures, and Machine Learning.",
       ],
       website_link: "https://www.uga.edu/",
+    },
+    {
+      title: "Karunya Institute of Technology and Sciences",
+      subtitle: "B.Tech. in Computer Science",
+      logo_path: "Karunya.jpeg", // Replace with the correct logo path
+      alt_name: "Karunya Institute",
+      duration: "2016 - 2020",
+      descriptions: [
+        "⚡ Achieved 3rd rank in the entire Computer Science Department out of a batch of over 300 students.",
+        "⚡ Studied core subjects such as Data Structures, Algorithms, Operating Systems, Databases, Web Development.",
+        "⚡ Worked on impactful projects focusing on dynamic web applications, scalable systems, and database optimization.",
+      ],
+      website_link: "https://www.karunya.edu/",
     },
   ],
 };
