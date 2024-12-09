@@ -5,7 +5,7 @@
       "name": "Dynamic UI Development for Accenture Internal Tools",
       "createdAt": "2022-05-15",
       "url": "https://innovation360.accenture.com/home",
-      "description": "Designed dynamic forms for Accenture's internal tools. Click to explore details of this project at Accenture.",
+      "description": "Designed dynamic forms for Accenture's internal tools. Click to explore details of this project.",
       "languages": [
         {
           "name": "Angular",
@@ -23,7 +23,6 @@
           "name": "Bit Bucket",
           "iconifyClass": "logos-bitbucket"
         }
-        
       ]
     },
     {
