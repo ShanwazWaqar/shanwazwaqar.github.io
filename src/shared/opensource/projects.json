@@ -5,7 +5,7 @@
       "name": "Dynamic UI Development for Accenture Internal Tools",
       "createdAt": "2022-05-15",
       "url": "https://innovation360.accenture.com/home",
-      "description": "Contributed to the frontend development of an internal operations platform at Accenture, focusing on creating dynamic, user-friendly interfaces using Angular. My key responsibilities included implementing dynamic forms, a feature I solely developed as part of a significant user story, enabling seamless customization for varied user inputs. Ensured robust functionality and performance through rigorous testing frameworks like Jasmine and KarmaJS. Collaborated with the team using Bitbucket for version control and peer reviews. This project highlights my expertise in building scalable, test-driven, and interactive frontend applications for enterprise environments.",
+      "description": "Designed dynamic forms for Accenture's internal tools. Click to explore details of this project at Accenture.",
       "languages": [
         {
           "name": "Angular",
@@ -22,14 +22,6 @@
         {
           "name": "Bit Bucket",
           "iconifyClass": "logos-bitbucket"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         }
         
       ]

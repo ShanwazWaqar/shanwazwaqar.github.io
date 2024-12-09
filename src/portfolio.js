@@ -229,7 +229,6 @@ const degrees = {
       duration: "2016 - 2020",
       descriptions: [
         "⚡ Achieved 3rd rank in the entire Computer Science Department out of a batch of over 300 students.",
-        "⚡ Maintained a consistently high GPA across all semesters, showcasing academic excellence.",
         "⚡ Studied core subjects such as Data Structures, Algorithms, Operating Systems, Databases, Web Development.",
         "⚡ Worked on impactful projects focusing on dynamic web applications, scalable systems, and database optimization.",
       ],
@@ -242,9 +241,9 @@ const degrees = {
       alt_name: "University of Georgia",
       duration: "2022 - Present",
       descriptions: [
-        "⚡ Focused on Full Stack Development, Software Engineering.",
-        "⚡ Conducted research on IoT and Machine Learning applications, with a thesis on improving poultry health analysis using AI and IoT.",
-        "⚡ Gained hands-on experience through advanced coursework in Algorithms, Data Structures.",
+        "⚡ Focused on Full Stack Development, Software Engineering, and Data Science.",
+        "⚡ Served as a Teaching Assistant for Anatomy & Physiology I for three semesters, mentoring new TAs and ensuring smooth lab operations.",
+        "⚡ Gained hands-on experience through advanced coursework in Algorithms, Data Structures, and Machine Learning.",
       ],
       website_link: "https://www.uga.edu/",
     },
@@ -366,7 +365,7 @@ const experience = {
         {
           title: "Java Full Stack Developer",
           company: "Accenture Solutions pvt ltd",
-          company_url: "https://www.accenture.com/",
+          company_url: "https://www.accenture.com/us-en",
           logo_path: "Accenture_short.png",
           duration: "Sep 2022 - Jul 2022",
           location: "Bengaluru, India",
@@ -410,7 +409,7 @@ const experience = {
         {
           title: "Software Developer Intern",
           company: "Accenture Solutions pvt ltd",
-          company_url: "#",
+          company_url: "https://www.accenture.com/us-en",
           logo_path: "Accenture_short.png",
           duration: "Jan 2020 - APr 2020",
           location: "Remote",
